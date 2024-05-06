@@ -1,5 +1,5 @@
 import { Directive, Input, Output, OnChanges, OnInit, EventEmitter, OnDestroy } from '@angular/core';
-import { GoogleMapsAPIWrapper } from '@agm/core';
+import { GoogleMapsAPIWrapper } from '@grupo-san-cristobal/agm-core';
 
 @Directive({
   selector: 'agm-direction',
