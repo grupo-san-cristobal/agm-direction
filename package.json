@@ -1,5 +1,4 @@
 {
-  "name": "agm-direction",
   "version": "0.8.10",
   "description": "directive for agm (not official)",
   "main": "./bundles/agm-direction.umd.js",
