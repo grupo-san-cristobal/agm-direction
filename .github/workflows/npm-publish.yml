@@ -23,7 +23,6 @@ jobs:
         with:
           node-version: 16
           registry-url: 'https://registry.npmjs.org'
-      - run: npm version patch --workspaces=true --workspaces-update=false
       - run: yarn
       - run: yarn build:prod
       - run: npm publish ./dist --access=public
