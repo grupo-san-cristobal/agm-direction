@@ -23,6 +23,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Build
-      run: |
-        npm i --legacy-peer-deps
+      run: 
+        npm install --legacy-peer-deps
         npm run pack:build
