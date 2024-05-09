@@ -1,6 +1,6 @@
 {
   "name": "gsc-agm-direction",
-  "version": "0.8.20",
+  "version": "0.8.21",
   "description": "directive for agm (not official)",
   "main": "./bundles/agm-direction.umd.js",
   "module": "./fesm5/agm-direction.js",
