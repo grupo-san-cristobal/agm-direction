@@ -1,5 +1,5 @@
 {
-  "name": "gsc-agm-direction",
+  "name": "@grupo-san-cristobal/agm-direction",
   "version": "0.8.21",
   "description": "directive for agm (not official)",
   "main": "./bundles/agm-direction.umd.js",
