@@ -25,6 +25,7 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
       - run: yarn
       - run: yarn build
+      - run: npm whoami
       - run: npm publish ./dist --access=public
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
