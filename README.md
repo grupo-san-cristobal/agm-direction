@@ -1,10 +1,10 @@
 
-# This is a fork from the original Angular google maps project from sebastian holstein,
+# This is a fork from the original Agm-Direction project from [explooosion](https://github.com/explooosion/Agm-Direction)
 We have published the package under our organization since we needed support for most current Angular versions.
 
 We will be maintaining this package in order to provide compatibility with newer Angular versions
 
-We are not planning on adding new features to this package, and we plan to get back to the original angular google maps as soon the maintenance is reestablished on the original package
+We are not planning on adding new features to this package, and we plan to get back to the original agm-direction as soon the maintenance is reestablished on the original package
 
 # Agm-Direction
 [![npm version](https://badge.fury.io/js/agm-direction.svg)](https://badge.fury.io/js/agm-direction)
